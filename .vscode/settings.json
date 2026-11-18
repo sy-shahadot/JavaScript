@@ -1,0 +1,10 @@
+{
+    "editor.cursorWidth": 2,
+    "editor.cursorSurroundingLines": 1,
+    "editor.cursorBlinking": "expand",
+    "editor.cursorSmoothCaretAnimation": "off",
+    "editor.cursorStyle": "line",
+    "editor.cursorSurroundingLinesStyle": "all",
+    "editor.tabSize": 4,
+    "editor.overtypeCursorStyle": "line"
+}
